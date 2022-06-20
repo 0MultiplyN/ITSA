@@ -14,5 +14,4 @@ int main()
         a = tmp;
 	}//swap
 	cout << a << '\n';
-
 }
